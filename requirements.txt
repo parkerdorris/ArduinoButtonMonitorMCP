@@ -1,0 +1,10 @@
+# Minimal requirements for Arduino MCP WebSocket System
+fastapi==0.115.6
+uvicorn==0.35.0
+websockets==12.0
+pyserial==3.5
+openai==1.99.9
+httpx==0.28.1
+httpcore==1.0.9
+anyio==4.10.0
+python-dotenv==1.1.1
